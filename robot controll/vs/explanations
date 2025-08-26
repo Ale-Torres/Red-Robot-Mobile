@@ -1,0 +1,1 @@
+These Python scripts are designed to function as a virtual "motherboard" or processor interface for the Arduino, using a laptop or NVIDIA Jetson board as the host. They handle communication, processing, and control logic, effectively offloading computation from the Arduino and enabling more complex operations through the host system.
