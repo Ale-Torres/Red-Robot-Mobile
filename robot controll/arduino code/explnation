@@ -1,0 +1,1 @@
+This Arduino code acts as the hardware controller for the robot. It receives commands from the main Python script running on a host (laptop or Jetson board), interprets them, and directly controls the robot’s motors and other components. Essentially, it serves as the "hands" of the system — executing movement and actions based on instructions sent from the more powerful "brain."
